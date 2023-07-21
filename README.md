@@ -1,4 +1,7 @@
-### 안녕하세요 가톨릭대학교 약리학교실에서 공부하고 있는 차화준입니다 
+### 안녕하세요 
+
+
+가톨릭대학교 약리학교실에서 공부하고 있는 차화준입니다
 
 <!--
 **chahwajun/chahwajun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
