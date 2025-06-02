@@ -1,7 +1,7 @@
-### 안녕하세요 
+### Hello
 
 
-가톨릭대학교 약리학교실에서 공부하고 있는 차화준입니다
+##I'm Hwa Jun Cha, currently studying in the Department of Pharmacology at The Catholic University of Korea
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chahwajun)
