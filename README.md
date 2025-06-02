@@ -1,7 +1,7 @@
 ### Hello
 
 
-##I'm Hwa Jun Cha, currently studying in the Department of Pharmacology at The Catholic University of Korea
+## I'm Hwa Jun Cha, currently studying in the Department of Pharmacology at The Catholic University of Korea
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chahwajun)
